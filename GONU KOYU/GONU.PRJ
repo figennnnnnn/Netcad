@@ -1,0 +1,16 @@
+[Owner]
+1=Basic
+[$Version$]
+0=1.0.0.0
+[Basic_FILETYPES]
+1=ATX,Toplulaþtýrma Projeleri,Toplulaþtýrma Kayýtlarý (*.DB)|*.DB
+2=ATX_ALL,Tüm Dosyalar,Tüm Dosyalar (*.*)|*.*
+[ATX_$META_ROLES]
+$ATX_ACTIVE=Aktif Toplulaþtýrma Projesi,ATX_ATX_ACTIVE.png,0,
+$ATX_FILE=Toplulaþtýrma Projesi,ATX_ATX_FILE.png,1,
+[ATX]
+1=GONU.DB
+[ATX_$ROLES]
+0=$ATX_ACTIVE,GONU.DB
+[$UserNames$]
+0=figen
